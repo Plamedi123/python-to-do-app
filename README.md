@@ -1,4 +1,4 @@
-# Enhanced To-Do List App
+# To-Do List App
 
 This is a simple to-do list application built using Python's Tkinter library. It allows users to add tasks with priorities, categories, and due dates, and delete tasks as needed.
 
